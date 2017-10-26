@@ -1,0 +1,24 @@
+{
+  "name": "myBot",
+  "version": "1.0.0",
+  "description": "this is my bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavyaab/myBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavyaab/myBot/issues"
+  },
+  "homepage": "https://github.com/bhavyaab/myBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
